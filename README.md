@@ -11,3 +11,6 @@ ___
 - [Task2](https://github.com/UdBe/System-Design/tree/main/Task2)
 
 ___
+
+[Utkarsh Tripathi](https://github.com/utkarsh-1905)
+[Uday Beswal](https://github.com/UdBe)
